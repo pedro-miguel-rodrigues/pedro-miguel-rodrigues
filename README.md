@@ -9,4 +9,4 @@
 pedro-miguel-rodrigues/pedro-miguel-rodrigues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- Hi, I'm Pedro Rodrigues and currently developing my thesis project to finally finnish my Masters in Computer Engineering.
+- Hi, I'm Pedro Rodrigues a Software Engineer who went to Instituto Superior Técnico, took a Computer Engineer Masters with a final GPA 16/20
